@@ -85,7 +85,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 > As shown in following chart, customers with no TechSupport are most likely to migrate to another service provider.
 ![Churn distribution w.r.t Tech support]
 ### 11. Distribution w.r.t Charges and Tenure:
-> ![Monthly Charges]
+> ![Monthly Charges]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/carges%20distribution.PNG
 > ![Total Charges]
 > ![Tenure]
 > Customers with higher Monthly Charges are also more likely to churn.<br>
