@@ -70,7 +70,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 ### 7. Online Security:
 
 > As shown in following graph, most customers churn due to lack of online security
-![Churn distribution w.r.t online security]
+![Churn distribution w.r.t online security]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/onlineSecurity.PNG
 
 ### 8. Senior Citizen:
 
