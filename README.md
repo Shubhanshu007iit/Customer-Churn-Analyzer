@@ -94,7 +94,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 ## Machine Learning Model Evaluations and Predictions:
 ![ML Algorithms
 #### Results after K fold cross validation:
-[logistic Regression](
+[logistic Regression](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/LR.PNG
 
 [KNN](
 
