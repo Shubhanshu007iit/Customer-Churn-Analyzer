@@ -42,7 +42,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 ## Few glimpses of EDA:
 ### 1. Churn distribution:
 
-> ![Churn distribution]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/edit/main/README.md
+> ![Churn distribution]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Churn%20Distribution.png
 > 26.6 % of customers switched to another firm.
 
 ### 2. Churn distribution with respect to gender:
