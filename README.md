@@ -66,7 +66,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 ### 6. Dependent distribution:
 
 > Customers without dependents are more likely to churn.
-![Churn distribution w.r.t dependents]
+![Churn distribution w.r.t dependents]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/dependents.PNG
 ### 7. Online Security:
 
 > As shown in following graph, most customers churn due to lack of online security
