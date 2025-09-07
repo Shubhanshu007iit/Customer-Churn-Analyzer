@@ -46,7 +46,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 > 26.6 % of customers switched to another firm.
 
 ### 2. Churn distribution with respect to gender:
-> ![Churn distribution wrt Gender]
+> ![Churn distribution wrt Gender]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/distributionWRTGender.PNG
 > There is negligible difference in customer percentage/count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
 
 ### 3. Customer Contract distribution:
