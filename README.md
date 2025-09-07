@@ -99,7 +99,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 [NAVIE BAYES]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Naive%20Bayes.PNG
 [DECISION TREE]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Decision%20trees.PNG
 [RANDOM FOREST]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Random%20Forest.PNG
-[ADABOOST](
+[ADABOOST](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Adaboost.PNG
 
 [GRADIENT BOOST](
 
