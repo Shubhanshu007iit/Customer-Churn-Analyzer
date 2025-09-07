@@ -62,7 +62,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 
 > Several customers choose the Fiber optic service and it's also evident that the customers who use Fiber optic have high churn rate, this might suggest a dissatisfaction with this type of internet service.
 > Customers having DSL service are majority in number and have less churn rate compared to Fibre optic service.
-![Churn distribution w.r.t Internet services and Gender]
+![Churn distribution w.r.t Internet services and Gender]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/internet%20services.PNG
 ### 6. Dependent distribution:
 
 > Customers without dependents are more likely to churn.
