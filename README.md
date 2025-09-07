@@ -86,7 +86,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 ![Churn distribution w.r.t Tech support]
 ### 11. Distribution w.r.t Charges and Tenure:
 > ![Monthly Charges]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/carges%20distribution.PNG
-> ![Total Charges]
+> ![Total Charges]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/total%20charges.PNG
 > ![Tenure]
 > Customers with higher Monthly Charges are also more likely to churn.<br>
 > New customers are more likely to churn.
