@@ -79,7 +79,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 ### 9. Paperless Billing:
 
 > Customers with Paperless Billing are most likely to churn.
-![Churn distribution w.r.t mode of billing]
+![Churn distribution w.r.t mode of billing]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/billing.PNG
 ### 10. Tech support:
 
 > As shown in following chart, customers with no TechSupport are most likely to migrate to another service provider.
