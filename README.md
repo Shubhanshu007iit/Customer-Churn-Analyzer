@@ -96,7 +96,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 #### Results after K fold cross validation:
 [logistic Regression](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/LR.PNG
 
-[KNN](
+[KNN](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/KNN.PNG
 
 [NAVIE BAYES](
 
