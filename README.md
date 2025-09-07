@@ -1,6 +1,5 @@
 <div align="right">
   
-https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/edit/main/README.md
 
 </div>
 
