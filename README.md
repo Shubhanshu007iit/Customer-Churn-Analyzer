@@ -50,7 +50,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 > There is negligible difference in customer percentage/count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
 
 ### 3. Customer Contract distribution:
-> ![Customer contract distribution]
+> ![Customer contract distribution]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Contract%20distribution.png
 > About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customrs with One Year Contract and 3% with Two Year Contract
 
 ### 4. Payment Methods:
