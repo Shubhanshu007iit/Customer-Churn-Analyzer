@@ -87,13 +87,31 @@ To detect early signs of potential churn, one must first develop a holistic view
 ### 11. Distribution w.r.t Charges and Tenure:
 > ![Monthly Charges]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/carges%20distribution.PNG
 > ![Total Charges]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/total%20charges.PNG
-> ![Tenure]
+> ![Tenure]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/tenure%20and%20churn.PNG
 > Customers with higher Monthly Charges are also more likely to churn.<br>
 > New customers are more likely to churn.
 
 ## Machine Learning Model Evaluations and Predictions:
 ![ML Algorithms
 #### Results after K fold cross validation:
+[logistic Regression](
+
+[KNN](
+
+[NAVIE BAYES](
+
+[DECISION TREE](
+
+[RANDOM FOREST](
+
+[ADABOOST](
+
+[GRADIENT BOOST](
+
+[VOTING CLASS](
+
+
+[CONFUSION MATRIX](
 
 
 #### Final Model: Voting Classifier
