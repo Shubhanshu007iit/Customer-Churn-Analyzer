@@ -95,15 +95,20 @@ To detect early signs of potential churn, one must first develop a holistic view
 ![ML Algorithms
 #### Results after K fold cross validation:
 [logistic Regression]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/LR.PNG
+
 [KNN](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/KNN.PNG
+
 [NAVIE BAYES]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Naive%20Bayes.PNG
+
 [DECISION TREE]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Decision%20trees.PNG
+
 [RANDOM FOREST]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Random%20Forest.PNG
+
 [ADABOOST](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Adaboost.PNG
 
 [GRADIENT BOOST](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Gradient%20boost.PNG
 
-[VOTING CLASS](
+[VOTING CLASS](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Voting%20Classifier.PNG
 
 
 [CONFUSION MATRIX](
