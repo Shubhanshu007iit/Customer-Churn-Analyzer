@@ -101,7 +101,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 [RANDOM FOREST]https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Random%20Forest.PNG
 [ADABOOST](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Adaboost.PNG
 
-[GRADIENT BOOST](
+[GRADIENT BOOST](https://github.com/Shubhanshu007iit/Customer-Churn-Analyzer/blob/main/Gradient%20boost.PNG
 
 [VOTING CLASS](
 
